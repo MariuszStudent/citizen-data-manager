@@ -1,0 +1,71 @@
+2026-06-10 07:15:35 - Dodano obywatela 1
+2026-06-10 07:15:35 - Dodano obywatela 1
+2026-06-10 07:15:35 - Usunieto obywatela 1
+2026-06-10 07:15:35 - Dodano obywatela 1
+2026-06-10 07:15:35 - Wyeksportowano dane do test_citizens.json
+2026-06-10 07:15:35 - Dodano do kolejki rejestracji 1
+2026-06-10 07:15:35 - Dodano do kolejki rejestracji 2
+2026-06-10 07:15:35 - Obsluzono kolejke, wynik: 1
+2026-06-10 07:15:35 - Obsluzono kolejke, wynik: 2
+2026-06-10 07:15:35 - Obsluzono kolejke, wynik: None
+2026-06-10 07:15:35 - Dodano obywatela 1
+2026-06-10 07:15:35 - Dodano obywatela 3
+2026-06-10 07:15:35 - Dodano obywatela 1
+2026-06-10 07:15:35 - Dodano obywatela 2
+2026-06-10 07:15:35 - Posortowano lista algorytmem merge
+2026-06-10 07:15:35 - Dodano obywatela 1
+2026-06-10 07:15:35 - Dodano obywatela 2
+2026-06-10 07:15:35 - Posortowano po nazwisku
+2026-06-10 07:15:35 - Dodano obywatela 1
+2026-06-10 07:15:35 - Undo: cofnieto dodanie 1
+2026-06-10 07:15:35 - Dodano obywatela 1
+2026-06-10 07:15:35 - Zaktualizowano obywatela 1
+2026-06-10 07:21:23 - Dodano obywatela 1
+2026-06-10 07:22:08 - Dodano obywatela 2
+2026-06-10 07:23:01 - Dodano obywatela 3
+2026-06-10 07:24:59 - Usunieto obywatela 2
+2026-06-10 07:26:09 - Undo: cofnieto usuniecie 2
+2026-06-10 19:03:12 - Dodano obywatela 1
+2026-06-10 19:03:30 - Undo: cofnieto dodanie 1
+2026-06-10 19:04:02 - Dodano do kolejki rejestracji 1
+2026-06-10 19:05:43 - Dodano do kolejki rejestracji 2
+2026-06-10 19:05:49 - Obsluzono kolejke, wynik: 1
+2026-06-10 19:06:11 - Obsluzono kolejke, wynik: 2
+2026-06-10 19:06:14 - Obsluzono kolejke, wynik: None
+2026-06-10 19:06:32 - Posortowano lista algorytmem bubble
+2026-06-10 19:12:49 - Zaktualizowano obywatela 1
+2026-06-10 19:19:55 - Dodano obywatela 1
+2026-06-10 19:20:25 - Usunieto obywatela 1
+2026-06-10 19:20:41 - Undo: cofnieto usuniecie 1
+2026-06-10 19:29:06 - Dodano obywatela 5
+2026-06-10 19:29:55 - Dodano obywatela 7
+2026-06-10 19:30:12 - Posortowano lista algorytmem bubble
+2026-06-10 19:31:28 - Dodano obywatela 8
+2026-06-10 19:31:46 - Posortowano lista algorytmem quick
+2026-06-10 19:35:55 - Posortowano lista algorytmem selection
+2026-06-10 19:43:46 - Dodano obywatela 9
+2026-06-10 19:45:20 - Usunieto obywatela 3
+2026-06-10 19:47:24 - Posortowano po nazwisku
+2026-06-10 20:04:54 - Dodano obywatela 1
+2026-06-10 20:04:54 - Dodano obywatela 1
+2026-06-10 20:04:54 - Usunieto obywatela 1
+2026-06-10 20:04:54 - Dodano obywatela 1
+2026-06-10 20:04:54 - Wyeksportowano dane do test_citizens.json
+2026-06-10 20:04:54 - Dodano do kolejki rejestracji 1
+2026-06-10 20:04:54 - Dodano do kolejki rejestracji 2
+2026-06-10 20:04:54 - Obsluzono kolejke, wynik: 1
+2026-06-10 20:04:54 - Obsluzono kolejke, wynik: 2
+2026-06-10 20:04:54 - Obsluzono kolejke, wynik: None
+2026-06-10 20:04:54 - Dodano obywatela 1
+2026-06-10 20:04:54 - Dodano obywatela 3
+2026-06-10 20:04:54 - Dodano obywatela 1
+2026-06-10 20:04:54 - Dodano obywatela 2
+2026-06-10 20:04:54 - Posortowano lista algorytmem merge
+2026-06-10 20:04:54 - Dodano obywatela 1
+2026-06-10 20:04:54 - Dodano obywatela 2
+2026-06-10 20:04:54 - Posortowano po nazwisku
+2026-06-10 20:04:54 - Dodano obywatela 1
+2026-06-10 20:04:54 - Undo: cofnieto dodanie 1
+2026-06-10 20:04:54 - Dodano obywatela 1
+2026-06-10 20:04:54 - Zaktualizowano obywatela 1
+2026-06-10 20:06:43 - Dodano obywatela 10
